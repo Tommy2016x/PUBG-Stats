@@ -1,0 +1,12 @@
+.dataBody{
+    background-color: #7a9e9f;
+    border-radius: 5px; 
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 3px 3px #4f6367;
+}
+
+.dataBody h1, .dataBody h2 {
+    text-align: center;
+    margin-right: 30px;
+}

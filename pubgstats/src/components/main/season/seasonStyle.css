@@ -1,0 +1,17 @@
+.seasonData{
+    margin: auto;
+    width: 80vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+}
+
+.seasonBody h1, .seasonBody h2{
+    text-align: center;
+
+}
+.seasonBody h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

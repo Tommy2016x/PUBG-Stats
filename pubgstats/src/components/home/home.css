@@ -1,0 +1,28 @@
+.input{
+   
+    margin: auto;
+    width:350px;
+    position: relative;
+    top: 50px;
+    padding:5px;
+    padding-bottom: 20px;
+    margin-bottom:100px;
+}
+
+.home h1{
+    text-align: center;
+    margin-bottom: 20px;
+   
+}
+
+.home h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+
+
+/* .home textField {
+    margin: auto;
+} */
